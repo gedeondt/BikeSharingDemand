@@ -1,0 +1,107 @@
+{
+  "name": "Madrid Centro y Barrios",
+  "city": "Madrid",
+  "description": "Escenario teórico con puntos de estacionamiento distribuidos por barrios céntricos y de alta demanda en Madrid.",
+  "parking_points": [
+    {
+      "name": "Puerta del Sol",
+      "location": {"lat": 40.416775, "lng": -3.70379},
+      "total_stands": 30
+    },
+    {
+      "name": "Gran Vía - Callao",
+      "location": {"lat": 40.42028, "lng": -3.70579},
+      "total_stands": 28
+    },
+    {
+      "name": "Malasaña - Plaza del Dos de Mayo",
+      "location": {"lat": 40.42509, "lng": -3.70475},
+      "total_stands": 24
+    },
+    {
+      "name": "Chueca - Plaza de Chueca",
+      "location": {"lat": 40.42256, "lng": -3.69909},
+      "total_stands": 22
+    },
+    {
+      "name": "Barrio de las Letras",
+      "location": {"lat": 40.41383, "lng": -3.69825},
+      "total_stands": 20
+    },
+    {
+      "name": "Lavapiés - Plaza de Lavapiés",
+      "location": {"lat": 40.40904, "lng": -3.70073},
+      "total_stands": 18
+    },
+    {
+      "name": "La Latina - Plaza de la Cebada",
+      "location": {"lat": 40.41124, "lng": -3.70825},
+      "total_stands": 20
+    },
+    {
+      "name": "Atocha - Estación",
+      "location": {"lat": 40.40662, "lng": -3.69069},
+      "total_stands": 26
+    },
+    {
+      "name": "Retiro - Puerta de Alcalá",
+      "location": {"lat": 40.41978, "lng": -3.68887},
+      "total_stands": 24
+    },
+    {
+      "name": "Salamanca - Calle Serrano",
+      "location": {"lat": 40.43121, "lng": -3.68756},
+      "total_stands": 22
+    },
+    {
+      "name": "Goya - Palacio de Deportes",
+      "location": {"lat": 40.42427, "lng": -3.67108},
+      "total_stands": 26
+    },
+    {
+      "name": "Chamberí - Plaza de Olavide",
+      "location": {"lat": 40.43218, "lng": -3.70157},
+      "total_stands": 20
+    },
+    {
+      "name": "Argüelles - Princesa",
+      "location": {"lat": 40.43018, "lng": -3.71753},
+      "total_stands": 18
+    },
+    {
+      "name": "Moncloa - Intercambiador",
+      "location": {"lat": 40.43522, "lng": -3.71979},
+      "total_stands": 30
+    },
+    {
+      "name": "Chamartín - Plaza de Castilla",
+      "location": {"lat": 40.46663, "lng": -3.6896},
+      "total_stands": 32
+    },
+    {
+      "name": "Tetuán - Cuatro Caminos",
+      "location": {"lat": 40.44879, "lng": -3.70797},
+      "total_stands": 24
+    },
+    {
+      "name": "Hortaleza - Palacio de Hielo",
+      "location": {"lat": 40.46755, "lng": -3.63706},
+      "total_stands": 18
+    },
+    {
+      "name": "Usera - Matadero Madrid",
+      "location": {"lat": 40.39144, "lng": -3.6989},
+      "total_stands": 16
+    },
+    {
+      "name": "Legazpi - Plaza Río 2",
+      "location": {"lat": 40.39155, "lng": -3.69803},
+      "total_stands": 18
+    },
+    {
+      "name": "Méndez Álvaro - Estación Sur",
+      "location": {"lat": 40.39849, "lng": -3.68679},
+      "total_stands": 28
+    }
+  ]
+}
