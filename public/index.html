@@ -49,12 +49,16 @@
     </main>
 
     <aside id="station-details" class="station-details" hidden>
-      <div class="station-header">
-        <h2 id="station-name"></h2>
-        <button id="close-details" aria-label="Cerrar panel">✕</button>
+      <div class="station-modal" role="dialog" aria-modal="true" aria-labelledby="station-name">
+        <div class="station-header">
+          <h2 id="station-name"></h2>
+          <button id="close-details" aria-label="Cerrar panel">✕</button>
+        </div>
+        <p id="station-summary"></p>
+        <div class="station-chart-wrapper">
+          <canvas id="station-chart" width="400" height="240"></canvas>
+        </div>
       </div>
-      <p id="station-summary"></p>
-      <canvas id="station-chart" width="400" height="240"></canvas>
     </aside>
 
     <script
