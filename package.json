@@ -1,0 +1,10 @@
+{
+  "name": "bikesharingdemand",
+  "version": "1.0.0",
+  "description": "Simulador y visualización de demanda de bicicletas por escenarios.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
